@@ -19,7 +19,7 @@ ss
 
 This is the link to the walkthrough of the functional application.
 
-link video
+https://drive.google.com/file/d/1rkJ39Rrcp_fx_yqZxMue10dsHB-2cxqL/view
 
 ## License
 
