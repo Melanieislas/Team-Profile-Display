@@ -15,7 +15,7 @@ To install and run this application, you have to first install the inquirer pack
 
 The following screenshot is an example of a Website generated using the inquirer package and user input from the terminal displaying a team and their information.
 
-ss
+![Team](https://user-images.githubusercontent.com/120453099/226536464-d2092295-66c5-45fd-8c81-a91febf1a2d9.png)
 
 This is the link to the walkthrough of the functional application.
 
