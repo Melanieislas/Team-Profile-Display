@@ -5,7 +5,7 @@ const Employee = require("../Classes/Employee");
 
 describe("Employee class", () => {
     describe("getName method", () => {
-        it("gets name form user", () => {
+        it("gets name from user", () => {
             const name = new Employee("Engineer", [
                 {name: "Melanie"}
             ]);
@@ -15,7 +15,7 @@ describe("Employee class", () => {
     });
 
     describe("getEmail method", () => {
-        it("gets email form user", () => {
+        it("gets email from user", () => {
             const email = new Employee("Engineer", [
                 {email: "islasmelanie@gmail.com"}
             ]);
@@ -25,7 +25,7 @@ describe("Employee class", () => {
     });
 
     describe("getRole method", () => {
-        it("gets employee role form user", () => {
+        it("gets employee role from user", () => {
             const role = new Employee("Engineer", [
                 {role: "Engineer"}
             ]);
