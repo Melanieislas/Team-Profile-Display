@@ -29,7 +29,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <h4>${jobTitle}</h4>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID}</li>
-                    <li class="list-group-item">Email: ${email}</li>
+                    <li class="list-group-item">Email: 
+                    <a href = "mailto: ${email}">${email} </a>
+                    </li>
                     <li class="list-group-item">GitHub: 
                         <a href="https://github.com/${github}" target="_blank"> ${github} </a>
                     </li>
@@ -42,7 +44,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <h4>${jobTitle1}</h4>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID1}</li>
-                    <li class="list-group-item">Email: ${email1}</li>
+                    <li class="list-group-item">Email: 
+                        <a href = "mailto: ${email1}">${email1} </a>
+                    </li>
                     <li class="list-group-item">GitHub: 
                         <a href="https://github.com/${github1}" target="_blank"> ${github1} </a>
                     </li>
@@ -55,7 +59,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <h4>${jobTitle2}</h4>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID2}</li>
-                    <li class="list-group-item">Email: ${email2}</li>
+                    <li class="list-group-item">Email: 
+                        <a href = "mailto: ${email2}">${email2} </a>
+                    </li>
                     <li class="list-group-item">GitHub: 
                         <a href="https://github.com/${github2}" target="_blank"> ${github2} </a>
                     </li>
@@ -70,7 +76,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                     <h4>${jobTitle3}</h4>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">ID: ${ID3}</li>
-                        <li class="list-group-item">Email: ${email3}</li>
+                        <li class="list-group-item">Email: 
+                            <a href = "mailto: ${email3}">${email3} </a>
+                        </li>
                         <li class="list-group-item">GitHub: 
                             <a href="https://github.com/${github3}" target="_blank"> ${github3} </a>
                         </li>
@@ -83,7 +91,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                     <h4>${jobTitle4}</h4>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">ID: ${ID4}</li>
-                        <li class="list-group-item">Email: ${email4}</li>
+                        <li class="list-group-item">Email: 
+                            <a href = "mailto: ${email4}">${email4} </a>
+                        </li>
                         <li class="list-group-item">GitHub: 
                             <a href="https://github.com/${github4}" target="_blank"> ${github4} </a>
                         </li>
