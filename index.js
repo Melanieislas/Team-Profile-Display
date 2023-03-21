@@ -30,7 +30,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID}</li>
                     <li class="list-group-item">Email: ${email}</li>
-                    <li class="list-group-item">GitHub: ${github}</li>
+                    <li class="list-group-item">GitHub: 
+                        <a href="https://github.com/${github}"> ${github} </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -41,7 +43,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID1}</li>
                     <li class="list-group-item">Email: ${email1}</li>
-                    <li class="list-group-item">GitHub: ${github1}</li>
+                    <li class="list-group-item">GitHub: 
+                        <a href="https://github.com/${github1}"> ${github1} </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -52,7 +56,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">ID: ${ID2}</li>
                     <li class="list-group-item">Email: ${email2}</li>
-                    <li class="list-group-item">GitHub: ${github2}</li>
+                    <li class="list-group-item">GitHub: 
+                        <a href="https://github.com/${github2}"> ${github2} </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -65,7 +71,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">ID: ${ID3}</li>
                         <li class="list-group-item">Email: ${email3}</li>
-                        <li class="list-group-item">GitHub: ${github3}</li>
+                        <li class="list-group-item">GitHub: 
+                            <a href="https://github.com/${github3}"> ${github3} </a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -76,7 +84,9 @@ const generateHTML = ({ name, jobTitle, ID, email, github, name1, name2, name3, 
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">ID: ${ID4}</li>
                         <li class="list-group-item">Email: ${email4}</li>
-                        <li class="list-group-item">GitHub: ${github4}</li>
+                        <li class="list-group-item">GitHub: 
+                            <a href="https://github.com/${github4}"> ${github4} </a>
+                        </li>
                     </ul>
                 </div>
             </div>
