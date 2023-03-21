@@ -13,15 +13,13 @@ To install and run this application, you have to first install the inquirer pack
 
 ## Usage
 
-The following screenshots is an example of a Website generated using the inquirer package and user input from the terminal displaying a team and their information.
+The following screenshot is an example of a Website generated using the inquirer package and user input from the terminal displaying a team and their information.
 
-This is the link to the functional application.
+ss
 
-(https://drive.google.com/file/d/1TGETVDekcwL99hYbKu4TnXHgZC1aUmD6/view)
+This is the link to the walkthrough of the functional application.
 
-![README1](https://user-images.githubusercontent.com/120453099/224250549-662eb026-6509-4087-ad8f-762b2308038d.png)
-
-![README2](https://user-images.githubusercontent.com/120453099/224250667-c8f17cd8-426b-4bc9-a291-661c1dd2558a.png)
+link video
 
 ## License
 
